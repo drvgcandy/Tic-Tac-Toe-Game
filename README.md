@@ -15,7 +15,7 @@ This project is a part of my Java practice journey. I developed this game to rei
 ## How to Play
 
 1. **Clone or Download:** Clone or download the repository to your local machine.
-2. **Compile:** Compile the `Main.java` file using a Java compiler:
+2. **Compile:** Compile the `tiktok.java` file using a Java compiler:
 3. **Run the Program:** Run the compiled Java program:
 4. **Follow On-screen Instructions:** Follow the on-screen instructions to play the game. Each player takes turns entering the row and column coordinates to place their mark ('X' or 'O') on the board.
 5. **Game Over:** The game continues until one player wins or the board is filled (resulting in a draw).
